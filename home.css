@@ -217,7 +217,7 @@
   }
   .slick-vertical .slick-slide {
     display: block;
-    height: auto;
+    min-height: auto;
     border: 1px solid transparent;
   }
   .slick-arrow.slick-hidden {
@@ -487,7 +487,7 @@
     background-size: cover;
   }
   .slick-list {
-    height: 600px;
+    height: 200px;
   }
   
   /* Transitions */
